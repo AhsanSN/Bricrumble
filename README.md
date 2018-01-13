@@ -9,3 +9,7 @@ Osama Yousuf,
 Amin Shiraz Gillani, 
 Syed Sameer Nadeem, 
 Minhaj Ahmed Moin.
+
+
+Weekly progress reports (when we were writing the game) of the project can be found @https://www.youtube.com/playlist?list=PL0QOtnWkYPYzNlvGJxQBp0_RsZhv2pUvf
+
